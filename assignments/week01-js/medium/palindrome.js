@@ -4,7 +4,20 @@
 */
 
 function isPalindrome(str) {
-  return true;
+
+  let cleanstr = str.toLowerCase().replace(/[^a-z0-9]/g, "").split("").reverse().join("")
+
+if(str.toLowerCase().replace(/[^a-z0-9]/g, "") == cleanstr){
+  return true
+}else{
+  return false
+}
 }
 
+console.log(isPalindrome("level"))
+console.log(isPalindrome("Hassan"))
+console.log(isPalindrome("dada; dad"))
+
+
 module.exports = isPalindrome;
+
