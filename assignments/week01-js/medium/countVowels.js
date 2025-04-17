@@ -26,6 +26,6 @@ console.log(res)
 
 console.log(countVowels("Python"))
 console.log(countVowels("rhythm"))
-console.log(countVowels("I my name is Hassan ALi"))
+console.log(countVowels("My name is Hassan ALi"))
 
 module.exports = countVowels;

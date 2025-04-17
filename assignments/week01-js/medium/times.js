@@ -11,20 +11,15 @@ There is no automated test for this one, this is more for you to understand time
 function calculateTime(n) {
     const startTime = new Date();
 
-    // add numbers one by one
     let sum = 0;
     for (let i = 0; i < n; i++) {
         sum += i
     }
-    // end time
     const endTime = new Date();
-    // calculate time
-    const timeTaken = (endTime - startTime) / 1000; // converted in seconds
-
+    const timeTaken = (endTime - startTime) / 1000;
     return timeTaken;
 }
 
-// Example usage
 const n1 = 100;
 const n2 = 100000;
 const n3 = 1000000000;
