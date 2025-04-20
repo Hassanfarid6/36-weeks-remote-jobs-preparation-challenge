@@ -40,8 +40,7 @@ class Todo {
   
   get(index){
     if(index >= 0 && index < this.todos.length){
-      this.todos[index]
-      return this
+      return this.todos[index]
       }
     return null
   }
@@ -52,19 +51,18 @@ class Todo {
 
 }
 
-const myTodos = new Todo();
-myTodos.add("Buy milk").add("Walk dog");
+let todoList = new Todo()
+todoList.add("Buy milk").add("Walk dog");
 
-console.log(myTodos.getAll()); // Should print: ["Buy milk", "Walk dog"]
-
-let re = myTodos.add('Buy groceries').add('Read book').getAll(); // ['Buy groceries', 'Read book']
-let res = myTodos.get(0); // 'Buy groceries'
-let ree = myTodos.update(1, 'Finish book').getAll(); // ['Buy groceries', 'Finish book']
-let rem = myTodos.remove(0).getAll(); // ['Finish book']
-let clr = myTodos.clear().getAll(); // []
+let re = todoList.add('Buy groceries').add('Read book').getAll(); // ['Buy groceries', 'Read book']
+console.log(todoList.getAll()); // Should print: ["Buy milk", "Walk dog"]
+let res = todoList.get(0); // 'Buy groceries'
+let ree = todoList.update(1, 'Finish book').getAll(); // ['Buy groceries', 'Finish book']
+let rem = todoList.remove(0).getAll(); // ['Finish book']
+let clr = todoList.clear().getAll(); // []
 let err;
 try {
-  myTodos.get(0); // Throws: Error: Invalid index
+  todoList.get(0); // Throws: Error: Invalid index
 } catch (e) {
   err = e.message;
 }
