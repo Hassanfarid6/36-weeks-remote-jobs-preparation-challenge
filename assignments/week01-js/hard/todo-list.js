@@ -54,24 +54,17 @@ class Todo {
 let todoList = new Todo()
 todoList.add("Buy milk").add("Walk dog");
 
-let re = todoList.add('Buy groceries').add('Read book').getAll(); // ['Buy groceries', 'Read book']
-console.log(todoList.getAll()); // Should print: ["Buy milk", "Walk dog"]
-let res = todoList.get(0); // 'Buy groceries'
-let ree = todoList.update(1, 'Finish book').getAll(); // ['Buy groceries', 'Finish book']
-let rem = todoList.remove(0).getAll(); // ['Finish book']
-let clr = todoList.clear().getAll(); // []
-let err;
-try {
-  todoList.get(0); // Throws: Error: Invalid index
-} catch (e) {
-  err = e.message;
-}
+let re = todoList.add('Buy groceries').add('Read book').getAll(); 
+console.log(todoList.getAll());                      
+let res = todoList.get(0);                            
+let ree = todoList.update(1, 'Finish book').getAll();
+let rem = todoList.remove(0).getAll();
+let clr = todoList.clear().getAll();
 
-console.log(re); // ['Buy groceries', 'Read book']
-console.log(res); // 'Buy groceries'
-console.log(ree); // ['Buy groceries', 'Finish book']
-console.log(rem); // ['Finish book']
-console.log(clr); // []
-console.log(err); //
+console.log(re); 
+console.log(res);
+console.log(ree);
+console.log(rem);
+console.log(clr);
 
 module.exports = Todo;
