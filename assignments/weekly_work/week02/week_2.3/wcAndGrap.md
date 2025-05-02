@@ -1,7 +1,7 @@
 # Bash Commands Guide: wc, grep, and history
 
 ## Overview
-This guide explains three awesome Bash commands: **wc**, **grep**, and **history**. These are like magic tools you use in the **terminal** to count stuff in files, search for words, or check what commands you’ve used before. Bash (Bourne Again Shell) lets you type commands to control your computer, and these tools help you analyze files and track your work. This guide is written to be super clear for beginners (like explaining to a 10-year-old) while giving enough details to use them confidently.
+This guide explains three awesome Bash commands: **wc**, **grep**, and **history**. These are like magic tools you use in the **terminal** to count stuff in files, search for words, or check what commands you’ve used before. Bash (Bourne Again Shell) lets you type commands to control your computer, and these tools help you analyze files and track your work. This guide is written to be super clear for beginners while giving enough details to use them confidently.
 
 
 - **Terminal:** The app where you type Bash commands (e.g., Terminal on macOS/Linux or Git Bash on Windows).

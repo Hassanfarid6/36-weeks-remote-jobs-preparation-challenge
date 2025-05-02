@@ -1,10 +1,7 @@
 # Bash Commands Guide: head, tail, and Pipe Operator (|)
 
 ## Overview
-This guide explains three cool Bash features: the **head** command, the **tail** command, and the **pipe operator (`|`)**. These are like magic tricks you use in the **terminal** to peek at parts of files or connect commands. Bash (Bourne Again Shell) lets you type commands to control your computer, and these tools help you view file contents and combine actions. This guide is written to be super clear for beginners (like explaining to a 10-year-old) while giving enough details to use them confidently.
-
-## What is Bash?
-Bash is a way to talk to your computer by typing commands in a terminal. Instead of clicking with a mouse, you type short instructions to do things like read files or chain tasks. The terminal is like a magic window where you cast these command spells!
+This guide explains three cool Bash features: the **head** command, the **tail** command, and the **pipe operator (`|`)**. These are like magic tricks you use in the **terminal** to peek at parts of files or connect commands. Bash (Bourne Again Shell) lets you type commands to control your computer, and these tools help you view file contents and combine actions. This guide is written to be super clear for beginners while giving enough details to use them confidently.
 
 - **Terminal:** The app where you type Bash commands (e.g., Terminal on macOS/Linux or Git Bash on Windows).
 - **Why use these tools?** They’re great for quickly checking file contents or combining commands to do more complex tasks.
