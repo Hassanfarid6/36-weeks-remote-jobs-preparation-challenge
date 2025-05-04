@@ -17,11 +17,6 @@ The challenge spans **36 weeks**, divided into phases focusing on:
 
 ## Weekly Breakdown
 - **Week 1-4**: Set goals, identify target roles, and choose learning resources.
-- **Week 5-12**: Complete online courses, tutorials, or certifications (e.g., coding, UX design, or digital marketing).
-- **Week 13-18**: Start small projects (e.g., a personal website, a mobile app, or a marketing campaign).
-- **Week 19-24**: Collaborate on group projects or contribute to open-source repositories.
-- **Week 25-30**: Optimize LinkedIn, create a resume, and build a portfolio website.
-- **Week 31-36**: Apply for jobs, practice mock interviews, and network with recruiters.
 
 ## Resources
 - **Learning Platforms**: Coursera, Udemy, freeCodeCamp, LinkedIn Learning.
@@ -41,8 +36,7 @@ The challenge spans **36 weeks**, divided into phases focusing on:
 4. Share your progress by committing updates regularly and engaging with the community.
 
 ## Projects
-- [Project 1: Personal Portfolio Website](#) (Link to live demo or repo)
-- [Project 2: Task Management App](#) (Link to live demo or repo)
+- [Project 1: https://portfolio-next-eight-henna.vercel.app/](#) (Link to live demo or repo)
 - More projects will be added as the challenge progresses.
 
 ## Contributions
@@ -53,11 +47,7 @@ Contributions are welcome! If you have resources, templates, or project ideas to
 
 ## Contact
 For questions or collaboration, reach out via:
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [hassanfarid667@gmail.com](mailto:hassanfarid667@gmail.com)
 - LinkedIn: [https://github.com/Hassanfarid6/](#)
-- Community: Join our [Discord/Slack group](#)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Happy learning and job hunting!
