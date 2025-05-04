@@ -1,7 +1,7 @@
-# Week 2.5: Centralized vs. Distributed Version Control Systems
+# Week 2.6: Centralized vs. Distributed Version Control Systems
 
 ## Overview
-This guide compares **Centralized Version Control Systems (VCS)** (like SVN) and **Distributed Version Control Systems** (like Git). Version control is like a magical notebook that saves your code’s history. Centralized and distributed VCS are two ways to organize that notebook. This is part of Week 2.5, building on your understanding of Git and version control!
+This guide compares **Centralized Version Control Systems (VCS)** (like SVN) and **Distributed Version Control Systems** (like Git). Version control is like a magical notebook that saves your code’s history. Centralized and distributed VCS are two ways to organize that notebook. This is part of Week 2.6, building on your understanding of Git and version control!
 
 ## What is Version Control?
 Version control tracks changes to your code, like saving every step of a drawing so you can go back or share it. There are two main types: **centralized** and **distributed**. They work differently, like storing your toys in one big box (centralized) versus having copies of your toys at home and school (distributed).
@@ -76,7 +76,7 @@ Imagine you’re coding a game:
   svn commit -m "Add feature"
   ```
   (Requires an SVN server, harder to set up for beginners.)
-- **Git**: Easier to start (from Week 2.5 Git intro):
+- **Git**: Easier to start (from Week 2.6 Git intro):
   ```bash
   git init
   git add game.js

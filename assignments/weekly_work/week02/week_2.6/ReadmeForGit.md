@@ -1,7 +1,7 @@
-# Week 2.5: What is Git & Version Control?
+# Week 2.6: What is Git & Version Control?
 
 ## Overview
-This guide introduces **Git** and **Version Control**, which help you keep track of changes to your code. Think of version control as a magical notebook that saves every version of your project, so you can go back if you make a mistake. Git is the tool we use to do this. This is part of Week 2.5, building on your JavaScript skills.
+This guide introduces **Git** and **Version Control**, which help you keep track of changes to your code. Think of version control as a magical notebook that saves every version of your project, so you can go back if you make a mistake. Git is the tool we use to do this. This is part of Week 2.6, building on your JavaScript skills.
 
 ## What is Version Control?
 **Version control** is like a time machine for your code. It saves every change you make, like adding a new feature or fixing a bug, so you can:
@@ -25,7 +25,7 @@ Imagine you’re drawing a picture. Version control saves every step (sketch, co
 
 ## Prerequisites
 - A computer with a terminal (e.g., Terminal on macOS/Linux, Command Prompt/PowerShell on Windows).
-- Basic JavaScript knowledge (from Week 2.5, e.g., arrays, functions).
+- Basic JavaScript knowledge (from Week 2.6, e.g., arrays, functions).
 - Git installed (check with `git --version`). If not installed:
   - Download from [git-scm.com](https://git-scm.com/downloads).
   - Install and verify: `git --version` (e.g., `git version 2.39.2`).
