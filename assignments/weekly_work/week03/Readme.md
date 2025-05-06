@@ -1,7 +1,7 @@
 # 36-Weeks Remote Jobs Preparation Challenge: Weeks 3.0.1 to 3.3
 
 ## Overview
-Welcome to **Weeks 3.0.1 to 3.3** of the **36-Weeks Remote Jobs Preparation Challenge**! This guide covers foundational JavaScript (JS) revision, Node.js, Express, databases (MongoDB and PostgreSQL), authentication, authorization, and more. These topics are key to building backend web applications, a critical skill for remote tech jobs. Each week is explained like you’re 10, with examples to make you job-ready!
+Welcome to **Weeks 3.0.1 to 3.3** of the **36-Weeks Remote Jobs Preparation Challenge**! This guide covers foundational JavaScript (JS) revision, Node.js, Express, databases (MongoDB and PostgreSQL), authentication, authorization, and more. These topics are key to building backend web applications, a critical skill for remote tech jobs. Each week is explained!!
 
 ## Why This Matters
 In remote tech jobs, you’ll:
@@ -106,33 +106,33 @@ Understanding auth concepts is key for securing apps, a must for backend roles.
 
 
 Week 3.0.1 | JS Foundation Revision
--  Just revise previous all JS concept
+->  Just revise previous all JS concept
 
-- Week 3.0.2 | Node.JS Runtime
+-> Week 3.0.2 | Node.JS Runtime
     - What is node js
     - Install Node Js
 
-- Week 3.0.3 | Express Basics
+-> Week 3.0.3 | Express Basics
     - What is express
     - Why its useful
 
-- Week 3.0.4 | Express Advance Intro
+-> Week 3.0.4 | Express Advance Intro
     - What is authentication (Theory)
     - What is authorization (Theory)
     - What is difference between both (Theory)
 
-- Week 3.0.5 | Database Intro
+-> Week 3.0.5 | Database Intro
     - What are Databases (Theory)
     - SQL VS NO SQL Databases (Theory)
 
-- Week 3.0.6 | Mongo Installation
+-> Week 3.0.6 | Mongo Installation
     - Install Mongoo DB Compass
     - Make a new project on Mongoo DB Clustor
 
-- Week 3.0.7 | Postgres Installation
+-> Week 3.0.7 | Postgres Installation
     - Install Postgres
 
-- Week 3.1 | Middlewares And Global Catches, Zod
+-> Week 3.1 | Middlewares And Global Catches, Zod
     - What is route in Express and How basic routing works
     - What are middlewares
     - What is app.use and how its works
@@ -140,7 +140,7 @@ Week 3.0.1 | JS Foundation Revision
     - What is Global Catches
     - How zod works and how to use it in express
 
-- Week 3.2 | Databases And Authentication
+-> Week 3.2 | Databases And Authentication
     - Intro to fetch API
     - Creating a fetch API
     - Intro to authentication
@@ -156,7 +156,7 @@ Week 3.0.1 | JS Foundation Revision
     - Mongoose
     - Sending data through an HTTP server
     
-- Week 3.3 | JWT And Auth
+-> Week 3.3 | JWT And Auth
     - How Authentication and Authorization works
     - What is JWT and how it works
     - JWT.sign and JWT.verify methods
